@@ -1,4 +1,6 @@
-### Hướng dẫn chạy code: ###
+"""Hướng dẫn chạy code
+pip install pygame
+"""
 ### ngoi lang(Environment) ###
 class VillageEnvironment: 
     def __init__(self):
