@@ -1,5 +1,6 @@
 """Hướng dẫn chạy code
 pip install pygame
+python environment.py
 """
 ### ngoi lang(Environment) ###
 class VillageEnvironment: 
