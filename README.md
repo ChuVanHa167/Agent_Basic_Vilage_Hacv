@@ -1,4 +1,5 @@
 🏡 Pixel Village AI Agent Simulation
+
 Một mô phỏng AI Agent cổ điển – Environment – Control Loop trực quan bằng Python + Pygame, giúp minh họa cách một Agent quan sát – quyết định – hành động – tồn tại trong không gian & thời gian giống như một sinh thể trong làng pixel.
 
 🎯 Mục tiêu dự án
@@ -93,3 +94,5 @@ Environment
 Time
 Embodiment
 “An agent is something that perceives and acts in an environment.”
+
+📌 Lưu ý: file test.py để mô tả hỉnh ảnh trực quan chuyển động của Agent(mặc dù vẽ xấu) và file còn lại để dùng học thuật giải thích ý nghĩa code
